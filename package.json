@@ -1,0 +1,19 @@
+{
+  "name": "Freehub",
+  "version": "1.0.0",
+  "description": "Data Visualizer",
+  "main": "bot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "high peaks",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.2",
+    "simple-statistics": "^5.0.1",
+    "strava-v3": "^1.14.0"
+  },
+  "engines": {
+    "node": "6.11.2"
+  }
+}
