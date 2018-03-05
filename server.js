@@ -31,9 +31,6 @@ var count = 0;
 var pageNumber = 1;
 var segmentId;
 
-// // initiate bot
-// freehub(6985412);
-
 //server
 var express = require('express');
 var app = express();
